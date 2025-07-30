@@ -1,12 +1,12 @@
-# Diagrams
+## Diagrams 사이트
 [Diagrams](https://app.diagrams.net)<br>
 
-# Diagrams
+## Diagrams 구성
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ce66cb2-847d-4bb1-aede-53348782682e" width="1000">
 </p>
 
-# 📂 폴더 및 파일 구조
+## 📂 폴더 및 파일 구조
 ```
 auto_train_yolo/
 ├── main.py                      # 파이프라인 실행 진입점
@@ -23,7 +23,7 @@ auto_train_yolo/
 └── (자동 생성 폴더)              # timestamp 기반 데이터셋 및 학습 결과 저장 폴더
 ```
 
-# 실행
+## 실행
 ```
 python3 auto_train_yolo/main.py
 ```
