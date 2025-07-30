@@ -30,7 +30,7 @@ python3 auto_train_yolo/main.py
 
 ## 🚀 출력 로그
 ```
-<TEST TRAIN>
+[TEST TRAIN]
 Datasets : 7 : 2 : 1 비율(7장, 2장, 1장)
 EPOCHS : 1
 
