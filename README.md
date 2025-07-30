@@ -28,6 +28,17 @@ auto_train_yolo/
 python3 auto_train_yolo/main.py
 ```
 
+## ⏳ TODO LIST
+```
+1. 파이프라인 반복 안정화
+  1-1. 2번째 학습 진행
+  1-2. 모델 변경 확인
+2. 모델 학습 중에도 이미지 수집 진행되게끔 로직 수정
+3. 하드코딩 부분 수정
+  3-1. 자동 클래스 맵핑
+  3-2. 훈련 횟수, 배치 사이즈 등 사용자 입력 혹은 인자값으로 수정
+```
+
 ## 🚀 출력 로그
 [TEST TRAIN]<br>
 Datasets : Train 7장, Valid 2장, Test 1장(7 : 2 : 1)<br>
