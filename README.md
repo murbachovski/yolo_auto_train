@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/9ce66cb2-847d-4bb1-aede-53348782682e" width="1000">
 </p>
 
-# yolo_auto_train
+# 📂 폴더 및 파일 구조
 ```
 auto_train_yolo/
 ├── main.py                      # 파이프라인 실행 진입점
