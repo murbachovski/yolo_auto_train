@@ -1,0 +1,19 @@
+# auto_train_yolo/utils/config.yaml
+
+data:
+  base_dir: ./auto_train_yolo/2025_07_30_14_07_datasets
+  classes: []  # 빈 리스트 혹은 기본값만 적음
+  # train_data_size: 700
+  # valid_data_size: 200
+  # test_data_size: 100
+
+train:
+  epochs: 1
+  batch_size: 8
+  imgsz: 32
+  pretrained_model_path: yolo11n.pt
+  save_dir: models/retrained
+
+camera:
+  camera_id: 0
+  max_frames: 10000000
