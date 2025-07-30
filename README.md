@@ -6,6 +6,11 @@
   <img src="https://github.com/user-attachments/assets/9ce66cb2-847d-4bb1-aede-53348782682e" width="1000">
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ee7ced5-81b3-4316-9e0e-8ccd49f5730d" width="1000">
+</p>
+
 ## 📂 폴더 및 파일 구조
 ```
 auto_train_yolo/
