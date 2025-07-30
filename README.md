@@ -30,7 +30,7 @@ python3 auto_train_yolo/main.py
 
 ## 🚀 출력 로그
 [TEST TRAIN]<br>
-Datasets : 7 : 2 : 1 비율(7장, 2장, 1장)<br>
+Datasets : Train 7장, Valid 2장, Test 1장(7 : 2 : 1)<br>
 EPOCHS : 1<br>
 ```
 [train] frame_00001.jpg 저장 완료
