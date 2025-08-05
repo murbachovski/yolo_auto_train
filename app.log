@@ -1,0 +1,164 @@
+2025-08-05 15:24:23,886 [ERROR] 환경변수 'GENAI_API_KEY'가 설정되지 않음, 앱 종료
+2025-08-05 15:25:13,057 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/25_08_05_pr/background.jpg
+2025-08-05 15:25:19,131 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/25_08_05_pr/background.jpg
+2025-08-05 15:25:19,151 [INFO] 영상 AI 분석 시작
+2025-08-05 15:25:19,151 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:25:24,423 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:25:24,833 [ERROR] 분석 중 오류 발생: <HttpError 400 when requesting https://generativelanguage.googleapis.com/$discovery/rest?version=v1beta&key=AIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZkAIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZk returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]">
+2025-08-05 15:25:24,837 [WARNING] 임시 파일 삭제 중 오류: name 'file_path' is not defined
+2025-08-05 15:25:37,307 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/25_08_05_pr/background.jpg
+2025-08-05 15:25:37,325 [INFO] 영상 AI 분석 시작
+2025-08-05 15:25:37,325 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:25:38,104 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:25:38,481 [ERROR] 분석 중 오류 발생: <HttpError 400 when requesting https://generativelanguage.googleapis.com/$discovery/rest?version=v1beta&key=AIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZkAIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZk returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]">
+2025-08-05 15:25:38,483 [WARNING] 임시 파일 삭제 중 오류: name 'file_path' is not defined
+2025-08-05 15:26:05,924 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:26:07,982 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:26:08,001 [INFO] 영상 AI 분석 시작
+2025-08-05 15:26:08,002 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:26:08,754 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:26:09,218 [ERROR] 분석 중 오류 발생: <HttpError 400 when requesting https://generativelanguage.googleapis.com/$discovery/rest?version=v1beta&key=AIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZkAIzaSyCog1z-WEO9pnM_zDXVqM7aFtIyIGpnNZk returned "API key not valid. Please pass a valid API key.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]">
+2025-08-05 15:26:09,223 [WARNING] 임시 파일 삭제 중 오류: name 'file_path' is not defined
+2025-08-05 15:26:41,265 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:26:42,699 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:26:42,716 [INFO] 영상 AI 분석 시작
+2025-08-05 15:26:42,716 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:26:43,980 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:26:48,755 [INFO] 파일 활성화 대기 시작: files/sofz1u36iptq
+2025-08-05 15:27:00,089 [INFO] 파일 활성화 완료
+2025-08-05 15:27:00,091 [INFO] AI 모델 요청 시도 1/5
+2025-08-05 15:27:12,084 [INFO] AI 답변 수신 완료
+2025-08-05 15:27:12,146 [INFO] 로컬 파일 삭제 완료: /Users/jini/Downloads/jini/st_coding/gemini_youtube/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:27:12,773 [INFO] 업로드 파일 삭제 완료: files/sofz1u36iptq
+2025-08-05 15:27:12,773 [INFO] 임시 파일 삭제 완료
+2025-08-05 15:32:18,238 [ERROR] 환경변수 'GENAI_API_KEY'가 설정되지 않음, 앱 종료
+2025-08-05 15:38:20,681 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:38:20,681 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:38:40,513 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:38:40,515 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:38:40,522 [INFO] 영상 AI 분석 시작
+2025-08-05 15:38:40,522 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:38:45,064 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:38:49,172 [INFO] 파일 활성화 대기 시작: files/yubc1y6eblnu
+2025-08-05 15:39:01,718 [INFO] 파일 활성화 완료
+2025-08-05 15:39:01,719 [INFO] AI 모델 요청 시도 1/5
+2025-08-05 15:39:26,081 [INFO] AI 답변 수신 완료
+2025-08-05 15:39:26,144 [INFO] 로컬 파일 삭제 완료: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:39:26,769 [INFO] 업로드 파일 삭제 완료: files/yubc1y6eblnu
+2025-08-05 15:39:26,769 [INFO] 임시 파일 삭제 완료
+2025-08-05 15:48:28,234 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:48:28,234 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:48:30,558 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:48:30,559 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:48:30,561 [INFO] 영상 AI 분석 시작
+2025-08-05 15:48:30,561 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:48:34,685 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:48:38,575 [INFO] 파일 활성화 대기 시작: files/obi3ru8gz5b7
+2025-08-05 15:48:46,049 [INFO] 파일 활성화 완료
+2025-08-05 15:48:46,054 [INFO] AI 모델 요청 시도 1/5
+2025-08-05 15:48:55,406 [INFO] AI 답변 수신 완료
+2025-08-05 15:48:55,484 [INFO] 로컬 파일 삭제 완료: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:48:56,291 [INFO] 업로드 파일 삭제 완료: files/obi3ru8gz5b7
+2025-08-05 15:48:56,291 [INFO] 임시 파일 삭제 완료
+2025-08-05 15:56:15,133 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:56:15,133 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:56:26,447 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:56:26,447 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:56:35,638 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:56:35,639 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:56:37,518 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:56:37,518 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:56:37,520 [INFO] 영상 AI 분석 시작
+2025-08-05 15:56:37,520 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:56:42,215 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:56:46,715 [INFO] 파일 활성화 대기 시작: files/1ax6z1g5hf94
+2025-08-05 15:56:56,673 [INFO] 파일 활성화 완료
+2025-08-05 15:56:56,675 [INFO] AI 모델 요청 시도 1/5
+2025-08-05 15:57:05,705 [INFO] AI 답변 수신 완료
+2025-08-05 15:57:05,783 [INFO] 로컬 파일 삭제 완료: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:57:06,378 [INFO] 업로드 파일 삭제 완료: files/1ax6z1g5hf94
+2025-08-05 15:57:06,378 [INFO] 임시 파일 삭제 완료
+2025-08-05 15:57:55,929 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:57:55,930 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:58:15,418 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:58:15,420 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:59:03,455 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:59:03,455 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:59:31,183 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 15:59:31,184 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 15:59:31,189 [INFO] 영상 AI 분석 시작
+2025-08-05 15:59:31,189 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 15:59:34,992 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 15:59:38,849 [INFO] 파일 활성화 대기 시작: files/1dpraiteae90
+2025-08-05 15:59:50,318 [INFO] 파일 활성화 완료
+2025-08-05 15:59:50,320 [INFO] AI 모델 요청 시도 1/5
+2025-08-05 16:00:02,781 [INFO] AI 답변 수신 완료
+2025-08-05 16:00:02,854 [INFO] 로컬 파일 삭제 완료: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 16:00:03,704 [INFO] 업로드 파일 삭제 완료: files/1dpraiteae90
+2025-08-05 16:00:03,705 [INFO] 임시 파일 삭제 완료
+2025-08-05 16:00:17,939 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:00:17,940 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:00:50,024 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:00:50,024 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:01:53,241 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:01:53,242 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:02:04,393 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:02:04,394 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:04:41,485 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:04:41,485 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:13:41,193 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:13:41,193 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:13:45,116 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:13:45,117 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:13:45,121 [INFO] 영상 AI 분석 시작
+2025-08-05 16:13:45,121 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 16:13:49,480 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 16:13:54,026 [INFO] 파일 활성화 대기 시작: files/igiamqzxnzry
+2025-08-05 16:14:04,082 [INFO] 파일 활성화 완료
+2025-08-05 16:14:04,082 [INFO] AI 모델 요청 시도 1/5
+2025-08-05 16:14:29,871 [INFO] AI 답변 수신 완료
+2025-08-05 16:14:29,877 [INFO] 로컬 파일 삭제 완료: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 16:14:31,037 [INFO] 업로드 파일 삭제 완료: files/igiamqzxnzry
+2025-08-05 16:14:31,037 [INFO] 임시 파일 삭제 완료
+2025-08-05 16:15:16,914 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:15:16,915 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:15:19,937 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:15:19,938 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:15:19,943 [INFO] 영상 AI 분석 시작
+2025-08-05 16:15:19,943 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 16:15:24,027 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 16:15:28,588 [INFO] 파일 활성화 대기 시작: files/4bzii8fq63z8
+2025-08-05 16:15:37,288 [INFO] 파일 활성화 완료
+2025-08-05 16:15:37,290 [INFO] AI 모델 요청 시도 1/5
+2025-08-05 16:15:46,880 [INFO] AI 답변 수신 완료
+2025-08-05 16:15:46,947 [INFO] 로컬 파일 삭제 완료: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 16:15:47,783 [INFO] 업로드 파일 삭제 완료: files/4bzii8fq63z8
+2025-08-05 16:15:47,783 [INFO] 임시 파일 삭제 완료
+2025-08-05 16:16:24,239 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:16:24,239 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:16:39,282 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:16:39,283 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:17:34,979 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:17:34,980 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:21:41,255 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:21:41,257 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:21:51,749 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:21:51,750 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:29:54,895 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:29:54,896 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:30:06,205 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:30:06,205 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:30:06,208 [INFO] 영상 AI 분석 시작
+2025-08-05 16:30:06,209 [INFO] 유튜브 영상 다운로드 시도: https://www.youtube.com/watch?v=-psgagqWoIo
+2025-08-05 16:30:10,450 [INFO] 영상 다운로드 성공: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 16:30:14,409 [INFO] 파일 활성화 대기 시작: files/sy9q1r0owg8i
+2025-08-05 16:30:25,644 [INFO] 파일 활성화 완료
+2025-08-05 16:30:25,645 [INFO] AI 모델 요청 시도 1/5
+2025-08-05 16:30:34,996 [INFO] AI 답변 수신 완료
+2025-08-05 16:30:35,073 [INFO] 로컬 파일 삭제 완료: /Users/jini/Downloads/jini/st_coding/youtube_gemini/videos/이찬혁 - 비비드라라러브 + 멸종위기사랑   [열린 음악회Open Concert] | KBS 250803 방송.mp4
+2025-08-05 16:30:35,822 [INFO] 업로드 파일 삭제 완료: files/sy9q1r0owg8i
+2025-08-05 16:30:35,822 [INFO] 임시 파일 삭제 완료
+2025-08-05 16:31:54,362 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:31:54,362 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
+2025-08-05 16:32:57,485 [INFO] 배경 이미지 설정: /Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg
+2025-08-05 16:32:57,486 [WARNING] 배경 이미지 설정 실패: [Errno 2] No such file or directory: '/Users/jini/Downloads/jini/st_coding/gemini_youtube/background.jpg'
